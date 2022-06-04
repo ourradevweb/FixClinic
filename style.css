@@ -34,7 +34,7 @@ a{
 /* Header */
 header{
     padding: 20px 0;
-    background-image: url(../Images/back.png);
+    background-image: url(./Images/back.png);
     background-repeat: no-repeat;
     background-color: transparent;
     background-size: cover;
