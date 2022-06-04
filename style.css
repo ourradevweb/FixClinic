@@ -148,22 +148,17 @@ header .header-content{
 
 .home .btn-started{
     margin-right: 10px;
-    background-color: white;
-    color: var(--green);
+    background-color: var(--title);
     transition: color 0.5s ;
     transition: 0.7s ease;
+    border: 1px solid white;
 }
 .home .btn-started a {
-    color: var(--green);
-    transition: color 0.5s;
-}
-
-.home .btn-started a:hover{
     color: white;
 }
 
 .home .btn-started:hover{
-    background-color: var(--success);
+    background-color: var(--green);
     color: white;
     transform: scale(1.1);
 }
