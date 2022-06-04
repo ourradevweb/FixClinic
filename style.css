@@ -723,6 +723,14 @@ section .container .contact-content .cont-item2{
 section .container .contact-content .cont-item1 .con-inp input{
     width: 100%;
 }
+/* */
+.accordion .accordion-content p {
+    font-size: 0.7rem;
+    margin-top: 8px;
+  }
+  .accordion button {
+    font-size: 1rem;
+  }
 
 
 
